@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconsumerportal_v2=self.webpackChunkconsumerportal_v2||[]).push([[389],{9389:function(u,n,e){e.r(n),e.d(n,{default:function(){return c}});e(72791);var r=e(83765),t=e(80184);function c(u){return(0,t.jsx)(r.default,{})}}}]);
+//# sourceMappingURL=389.7dd5635a.chunk.js.map

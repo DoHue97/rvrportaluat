@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "6XVVSMSN85.com.crm.app.v5.sandboxportal",
+			"paths": [
+				"*"
+			]
+		}]
+	}
+}

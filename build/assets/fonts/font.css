@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Roboto-BoldCondensed';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Bold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Black';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Bold.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Medium.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./FontsFree-Net-SFProDisplay-Regular.ttf') format("truetype");
+}

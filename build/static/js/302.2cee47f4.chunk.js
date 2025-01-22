@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconsumerportal_v2=self.webpackChunkconsumerportal_v2||[]).push([[302],{14302:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var u=r(61889),t=r(20890),c=(r(72791),r(80184));function i(n){return(0,c.jsx)(u.ZP,{item:!0,x:12,children:(0,c.jsx)(t.Z,{children:"LandingPageView"})})}}}]);
+//# sourceMappingURL=302.2cee47f4.chunk.js.map

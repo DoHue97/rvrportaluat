@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconsumerportal_v2=self.webpackChunkconsumerportal_v2||[]).push([[122],{25122:function(n,t,e){e.r(t),e.d(t,{loadingEnd:function(){return o.loadingEnd},setUnreadNotification:function(){return o.setUnreadNotification}});var o=e(69573)}}]);
